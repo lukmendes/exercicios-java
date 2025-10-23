@@ -1,3 +1,6 @@
+// Exercício de conversão entre Celsius e Fahrenheit;
+// Uso de funções que retornam valores, switch-case, Scanner para entrada de dados e cálculo simples;
+
 package modularizacao;
 
 import java.util.Scanner;

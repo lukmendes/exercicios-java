@@ -1,3 +1,6 @@
+// Exercício de cálculo de montante com juros compostos e classificação por prazo;
+// Aprendizado: modularização completa, cálculo com Math.pow, múltiplos métodos colaborando, formatação de saída, separação clara de funções e procedimentos, uso correto de Scanner único.
+
 package modularizacao;
 
 import java.util.Scanner;

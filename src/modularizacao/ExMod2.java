@@ -1,3 +1,6 @@
+// Exercício de cálculo de IMC e classificação;
+// Modularização avançada com funções e procedimentos, passagem de Scanner por parâmetro, text blocks para saída formatada, encadeamento if/else if;
+
 package modularizacao;
 
 import java.util.Scanner;
