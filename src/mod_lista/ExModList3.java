@@ -11,6 +11,8 @@ public class ExModList3 {
         System.out.println("Digite o segundo número: ");
         int n2 = scan.nextInt();
         exibirLoopMenu(scan, n1, n2);
+
+        scan.close();
     }
 
     public static void exibirLoopMenu(Scanner scan, int n1, int n2) {

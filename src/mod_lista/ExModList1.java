@@ -16,6 +16,8 @@ public class ExModList1 {
         } else {
             System.out.println("Sem execução.");
         }
+
+        scan.close();
     }
 
     public static void tabuada(int num) {

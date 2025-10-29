@@ -11,6 +11,8 @@ public class ExModList2 {
         System.out.println("Digite o expoente da potência: ");
         double expoente = scan.nextDouble();
         calcularPotencia(base, expoente);
+
+        scan.close();
     }
 
     public static void calcularPotencia(double base, double expoente) {
